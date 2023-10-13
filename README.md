@@ -26,3 +26,6 @@ This project test the next features:
   <li>Run the appium server</li>
   <li>run the testng.xml file with java (testng suite file)</li>
 </ul>
+
+## Expected result
+<img width="927" alt="Execution" src="https://github.com/juan-andres-restrepo-globant/Trivago/assets/144959799/abc7e130-ae2f-4176-aa35-60e55ceec1e0">
