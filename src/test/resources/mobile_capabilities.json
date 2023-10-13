@@ -1,0 +1,9 @@
+{
+  "deviceName": "Pixel 7 API 33",
+  "platformName": "Android",
+  "platformVersion": "13",
+  "appPackage": "com.trivago",
+  "appActivity": ".ft.main.frontend.MainActivity",
+  "app": "/Users/juanandres.restrepo/Desktop/apps/Trivago.apk",
+  "automationName": "UiAutomator2"
+}
